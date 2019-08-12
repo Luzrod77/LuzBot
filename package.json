@@ -1,0 +1,9 @@
+{
+  "name": "LuzBot",
+  "version": "0.1.0",
+  "description": "Projet Discord",
+  "main": "main.js",
+  "repository": "https://github.com/Luzrod77/LuzBot.git",
+  "author": "Luzrod77 <theo.ernould@orange.fr>",
+  "license": "MIT"
+}
